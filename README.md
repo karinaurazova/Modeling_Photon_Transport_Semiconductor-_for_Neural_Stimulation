@@ -45,7 +45,7 @@ python Modeling_Photon_Transport_Semiconductor_for_Neural_Stimulation.ipynb
 
 ## Results
 
-
+![result](result_monte-carlo.png)
 
 ## Applications
 - Optogenetic neural stimulation
